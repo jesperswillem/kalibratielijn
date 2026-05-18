@@ -10,8 +10,7 @@ De hoofdnotebook is bedoeld om rustig door te werken. Statistische begrippen zoa
 
 Zet deze map eerst in een GitHub-repository. Vervang daarna in onderstaande link `<organisatie>` en `<repository>` door je eigen GitHub-organisatie en repositorynaam:
 
-```text
-[![Open hoofdnotebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jesperswillem/kalibratielijn/blob/main/notebooks/01_kalibratielijn_studenten.ipynb)```
+[![Open hoofdnotebook in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jesperswillem/kalibratielijn/blob/main/notebooks/01_kalibratielijn_studenten.ipynb)
 
 Voor studenten kun je in Brightspace, Canvas, Teams of Moodle gewoon die link plaatsen.
 
